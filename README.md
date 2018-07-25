@@ -92,8 +92,6 @@ web server.
 1. The questionnaire should now be available under
 https://[yourserver]/vsaq.html?qpath=questionnaires/test_template.json
 
-Example: https://vsaq-demo.withgoogle.com/vsaq.html?qpath=questionnaires/test_template.json
-
 
 ## Reference Implementation
 ----
